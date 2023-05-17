@@ -15,33 +15,25 @@ project_entries:
 
   - title: Documentation
     url: overview-post
-    desc: Projects are shown in card layout
 
   - title: Features
     url: overview-post
-    desc: You can control visibility from _config.yml file
 
   - title: Guide
     url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
 
   - title: one click install
     url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
     highlight: WIP
 
   - title: discord
     url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
   
   - title: twitter
     url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
 
   - title: QQ
     url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
   - title: Soopr
