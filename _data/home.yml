@@ -11,7 +11,6 @@ navbar_entries:
 project_entries:
   - title: Repos
     url: overview-post
-    desc: opensource repos all about RWKV
 
   - title: Documentation
     url: overview-post
