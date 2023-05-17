@@ -5,33 +5,41 @@ navbar_entries:
   - title: blog
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: github 
+    url: https://github.com/BlinkDL/RWKV-LM
 
 project_entries:
-  - title: Project 1
+  - title: Repos
     url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+    desc: opensource repos all about RWKV
 
-  - title: Project 2
+  - title: Documentation
     url: overview-post
     desc: Projects are shown in card layout
 
-  - title: Project 3
+  - title: Features
     url: overview-post
     desc: You can control visibility from _config.yml file
 
-  - title: Project 4
+  - title: Guide
     url: overview-post
     desc: This project uses highlight markup, configured in _data/home.yml
     highlight: WIP
 
-  - title: Project 5
+  - title: one click install
     url: overview-post
     desc: Moonwalk also has horizontal list (used in header and footer)
     highlight: WIP
 
-  - title: Project 6
+  - title: discord
+    url: overview-post
+    desc: It also has a scalable vertical list (in case you need it)
+  
+  - title: twitter
+    url: overview-post
+    desc: It also has a scalable vertical list (in case you need it)
+
+  - title: QQ
     url: overview-post
     desc: It also has a scalable vertical list (in case you need it)
 
@@ -54,7 +62,7 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
+  - title: discord
     url: https://www.abhinav.co
 
   - title: twitter
