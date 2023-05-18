@@ -15,8 +15,8 @@ project_entries:
   - title: Features details
     url: https://johanwind.github.io/2023/03/23/rwkv_details.html
 
-  - title: Guide
-    url: https://johanwind.github.io/2023/03/23/rwkv_overview.html
+  - title: Demo
+    url: demos
 
   - title: One click install
     url: installer
@@ -52,6 +52,8 @@ footer_entries:
   - title: wechat
     url:  https://mp.weixin.qq.com/s/pwj7M_Lu_RY0_Ph_n5O1KQ
 
+   - title: Q&A
+    url:  https://mp.weixin.qq.com/s/pwj7M_Lu_RY0_Ph_n5O1KQ
 
   - title: feed
     url: feed.xml
