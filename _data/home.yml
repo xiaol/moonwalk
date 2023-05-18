@@ -1,6 +1,6 @@
 navbar_entries:
   - title: blog
-    url: https://www.zhihu.com/people/bopengbopeng
+    url: https://www.zhihu.com/people/bopengbopeng/posts/posts_by_votes
 
   - title: github 
     url: https://github.com/BlinkDL/RWKV-LM
@@ -10,7 +10,7 @@ project_entries:
     url: https://github.com/search?o=desc&q=rwkv&s=updated&type=Repositories
 
   - title: Documentation
-    url: https://github.com/BlinkDL/RWKV-LM 
+    url: https://github.com/BlinkDL/RWKV-LM/blob/main/README.md
 
   - title: Features details
     url: https://johanwind.github.io/2023/03/23/rwkv_details.html
@@ -49,14 +49,9 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: discord
-    url:  https://discord.gg/bDSBUMeFpc
+  - title: wechat
+    url:  https://mp.weixin.qq.com/s/pwj7M_Lu_RY0_Ph_n5O1KQ
 
-  - title: twitter
-    url: https://twitter.com/BlinkDL_AI
-
-  - title: github
-    url: https://github.com/BlinkDL/RWKV-LM
 
   - title: feed
     url: feed.xml
