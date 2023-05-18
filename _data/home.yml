@@ -18,7 +18,7 @@ project_entries:
   - title: Demo
     url: demos
 
-  - title: One click install
+  - title: One click installer
     url: installer
 
   - title: discord
