@@ -10,7 +10,7 @@ project_entries:
     url: https://github.com/search?o=desc&q=rwkv&s=updated&type=Repositories
 
   - title: Documentation
-    url: overview-post
+    url: https://github.com/BlinkDL/RWKV-LM 
 
   - title: Features details
     url: https://johanwind.github.io/2023/03/23/rwkv_details.html
