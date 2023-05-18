@@ -1,37 +1,34 @@
 navbar_entries:
-  - title: about
-    url: about
-
   - title: blog
-    url: blog
+    url: https://www.zhihu.com/people/bopengbopeng
 
   - title: github 
     url: https://github.com/BlinkDL/RWKV-LM
 
 project_entries:
   - title: Repos
-    url: overview-post
+    url: https://github.com/search?o=desc&q=rwkv&s=updated&type=Repositories
 
   - title: Documentation
     url: overview-post
 
-  - title: Features
-    url: overview-post
+  - title: Features details
+    url: https://johanwind.github.io/2023/03/23/rwkv_details.html
 
   - title: Guide
-    url: overview-post
+    url: https://johanwind.github.io/2023/03/23/rwkv_overview.html
 
-  - title: one click install
-    url: overview-post
+  - title: One click install
+    url: installer
 
   - title: discord
-    url: overview-post
+    url: https://discord.gg/bDSBUMeFpc
   
   - title: twitter
-    url: overview-post
+    url: https://twitter.com/BlinkDL_AI
 
   - title: QQ
-    url: overview-post
+    url: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=fuXf3FItXL2V5ayf7BzxVZx_6kbYhQZc&authKey=ERfagRdk6I%2FdObm%2BGCaCxd1pGcx4KUoS730vztRhxKm44uCdp%2BI0xIArtxet6Sa%2B&noverify=0&group_code=325154699overview-post
 
 old_project_entries:
   - title: Soopr
